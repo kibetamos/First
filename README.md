@@ -14,4 +14,6 @@ step 2
 
 step 3 
 
-Run npm start
+Run npm start <br>
+
+Access the localhost from your local machine 127.0.0.1:8000
