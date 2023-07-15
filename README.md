@@ -9,5 +9,9 @@ step1 <br>
   
 step 2
 
-  Run npm i 
+  Run npm i <br>
+
+
+step 3 
+
 
