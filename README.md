@@ -1,4 +1,4 @@
-# Simple login Page
+# Simple Login Page
 This is a Simple Login form using node js
 
 # Steps to  setup
